@@ -1,0 +1,5 @@
+MANIFEST
+Makefile.PL
+lib/Class/Data/Global.pm
+t/cdata.t
+META.yml                                 Module meta-data (added by MakeMaker)
